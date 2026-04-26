@@ -12,7 +12,7 @@ initSocket(httpServer);
 cleanStaleSessions();
 
 httpServer.listen(PORT, () => {
-    console.log(`🚀 Tervux WhatsApp Bot running on port ${PORT}`);
+    console.log(`🚀 Tervux-Mini-Bot running on port ${PORT}`);
 });
 
 // Initialize WhatsApp

@@ -124,7 +124,7 @@ export async function handleGroupMessage(sock, m) {
                 "wa.me/255785046741",
                 "tervux.portfolio",
                 "nyaganya.tervux.com",
-                "github.com/JonniTech/Tervux-WhatsApp-Bot",
+                "github.com/JonniTech/Tervux-Mini-Bot",
                 "nyaganyamalima47@gmail.com"
             ];
 

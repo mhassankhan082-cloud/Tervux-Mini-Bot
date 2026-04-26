@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tervux-whatsapp-bot
+    name: tervux-mini-bot
     plan: free
     buildCommand: npm install
     startCommand: npm start

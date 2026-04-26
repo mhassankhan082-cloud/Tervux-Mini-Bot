@@ -1244,7 +1244,7 @@ export default function WhatsAppBotPage() {
                                                 <span className="text-[10px] font-bold uppercase tracking-widest">Zero_Cost_Neural_Link</span>
                                             </div>
                                             <p className="text-xs text-muted-foreground leading-relaxed font-medium">
-                                                Tervux WhatsApp modules are <span className="text-foreground font-bold">100% FREE</span>.
+                                                Tervux-Mini-Bot modules are <span className="text-foreground font-bold">100% FREE</span>.
                                                 If any entity requests currency for this uplink, terminate the connection immediately.
                                             </p>
                                         </div>

@@ -1,5 +1,5 @@
 {
-    "name": "Tervux-WhatsApp-Bot",
+    "name": "Tervux-Mini-Bot",
     "description": "🤖 Feature-rich WhatsApp Bot — Media downloads, AI chat, group management, games, and more. Deploy in minutes!",
     "keywords": [
         "whatsapp",
@@ -8,13 +8,13 @@
         "baileys",
         "automation"
     ],
-    "logo": "https://raw.githubusercontent.com/JonniTech/Tervux-WhatsApp-Bot/main/public/tervus-logo.png",
-    "repository": "https://github.com/JonniTech/Tervux-WhatsApp-Bot",
+    "logo": "https://raw.githubusercontent.com/JonniTech/Tervux-Mini-Bot/main/public/tervus-logo.png",
+    "repository": "https://github.com/JonniTech/Tervux-Mini-Bot",
     "success_url": "/",
     "stack": "heroku-24",
     "env": {
         "SESSION_ID": {
-            "description": "Unique Session ID from the pairing page (starts with Tervux-...)",
+            "description": "Unique Session ID from the pairing page (starts with Tervux-Mini-...)",
             "required": true
         }
     },

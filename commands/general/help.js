@@ -31,12 +31,15 @@ export const help = async (sock, m, args) => {
 │ 🔄 *Updated:* ${stats.updatedAt}
 ╰──────────────────────────────╯` : "";
 
-  const caption = `╭───『 🤖 *𝕋𝔼ℝ𝕍𝕌𝕏 𝔹𝕆𝕋-V2.0* 』───╮
+  const now = new Date();
+  const formattedDate = `${String(now.getDate()).padStart(2, '0')}/${String(now.getMonth() + 1).padStart(2, '0')}/${String(now.getFullYear()).slice(-2)}`;
+
+  const caption = `╭───『 🤖 *𝕋𝕰ℝ𝕍𝕌𝕏-𝕄𝕀ℕ𝕀-𝔹𝕆𝕋-V1.0* 』───╮
 │
 │ ✨ *Prefix:* ${p}
-│ 📅 *Date:* ${new Date().toLocaleDateString()}
-│ 👑 *Creator:* Nyaganya Malima
-│ 🌐 *Portfolio:* nyaganya.tervux.com
+│ 📅 *Date:* ${formattedDate}
+│ 👑 *Creator:* Tervux Software Company
+│ 🌐 *Website:* www.tervux.com
 ╰──────────────────────────────╯
 
 ${githubSection}

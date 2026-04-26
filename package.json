@@ -1,5 +1,5 @@
 {
-  "name": "tervux-whatsapp-bot",
+  "name": "tervux-mini-bot",
   "version": "2.0.0",
   "description": "Self-hosted WhatsApp Bot powered by Tervux",
   "main": "server.js",

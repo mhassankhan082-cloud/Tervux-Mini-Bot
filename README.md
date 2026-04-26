@@ -16,21 +16,21 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=25D366&center=true&vCenter=true&width=600&height=60&lines=TERVUX+WHATSAPP+BOT;Simple.+Powerful.+Secure.;Deploy+in+Minutes" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=25D366&center=true&vCenter=true&width=600&height=60&lines=TERVUX-MINI-BOT;Simple.+Powerful.+Secure.;Deploy+in+Minutes" alt="Typing Animation" />
 </a>
 
 <br><br>
 
 <!-- Badges Row -->
 <p>
-  <a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a1b" alt="Stars"/>
+  <a href="https://github.com/JonniTech/Tervux-Mini-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a1b" alt="Stars"/>
   </a>
-  <a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot/forks">
-    <img src="https://img.shields.io/github/forks/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=github&color=00BFFF&labelColor=1a1a1b" alt="Forks"/>
+  <a href="https://github.com/JonniTech/Tervux-Mini-Bot/forks">
+    <img src="https://img.shields.io/github/forks/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=github&color=00BFFF&labelColor=1a1a1b" alt="Forks"/>
   </a>
-  <a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot/issues">
-    <img src="https://img.shields.io/github/issues/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=github&color=FF4500&labelColor=1a1a1b" alt="Issues"/>
+  <a href="https://github.com/JonniTech/Tervux-Mini-Bot/issues">
+    <img src="https://img.shields.io/github/issues/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=github&color=FF4500&labelColor=1a1a1b" alt="Issues"/>
   </a>
 </p>
 
@@ -74,9 +74,9 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-OVERVIEW-25D366?style=flat-square" height="25"> About Tervux Bot
+## <img src="https://img.shields.io/badge/-OVERVIEW-25D366?style=flat-square" height="25"> About Tervux-Mini-Bot
 
-**Tervux WhatsApp Bot** is a feature-rich, self-hosted WhatsApp automation tool built on **Node.js** and the **Baileys** library. It provides media downloading, group management, fun games, and utility tools — all with a premium user experience.
+**Tervux-Mini-Bot** is a feature-rich, self-hosted WhatsApp automation tool built on **Node.js** and the **Baileys** library. It provides media downloading, group management, fun games, and utility tools — all with a premium user experience.
 
 <br>
 
@@ -159,11 +159,11 @@ Click the **Fork** button at the top-right of this page to create your own copy 
 ### <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="22"> Option A: Deploy on Heroku
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/GET%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/JonniTech/Tervux-WhatsApp-Bot">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/JonniTech/Tervux-Mini-Bot">
     <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku" height="40">
   </a>
 </p>
@@ -179,7 +179,7 @@ Click the **Fork** button at the top-right of this page to create your own copy 
 ### <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" height="22"> Option B: Deploy on Render
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/GET%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" height="40">
   </a>
   &nbsp;&nbsp;
@@ -200,7 +200,7 @@ Click the **Fork** button at the top-right of this page to create your own copy 
 ### <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="22"> Option C: Deploy on Railway
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/GET%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" height="40">
   </a>
   &nbsp;&nbsp;
@@ -221,10 +221,10 @@ Click the **Fork** button at the top-right of this page to create your own copy 
 
 ```bash
 # Clone the repository
-git clone https://github.com/JonniTech/Tervux-WhatsApp-Bot.git
+git clone https://github.com/JonniTech/Tervux-Mini-Bot.git
 
 # Navigate to directory
-cd Tervux-WhatsApp-Bot
+cd Tervux-Mini-Bot
 
 # Install dependencies (requires Node.js 20+)
 npm install
@@ -301,7 +301,7 @@ The modern way to deploy Tervux Bot is using a **Session ID**. This avoids compl
 
 ## <img src="https://img.shields.io/badge/-UTANGULIZI-25D366?style=flat-square" height="25"> Kuhusu Tervux Bot
 
-**Tervux WhatsApp Bot** ni bot ya WhatsApp yenye vipengele vingi, iliyotengenezwa kwa **Node.js** na **Baileys**. Inakupa uwezo wa kupakua media, kusimamia makundi, kucheza games, na kutumia zana mbalimbali.
+**Tervux-Mini-Bot** ni bot ya WhatsApp yenye vipengele vingi, iliyotengenezwa kwa **Node.js** na **Baileys**. Inakupa uwezo wa kupakua media, kusimamia makundi, kucheza games, na kutumia zana mbalimbali.
 
 <br>
 
@@ -330,11 +330,11 @@ Bonyeza kitufe cha **Fork** juu kulia ili kutengeneza copy ya hii repo iwe yako.
 ### <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="20"> Option A: Heroku
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/PATA%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pata Session ID" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/JonniTech/Tervux-WhatsApp-Bot">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/JonniTech/Tervux-Mini-Bot">
     <img src="https://img.shields.io/badge/WEKA%20KWENYE%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku" height="40">
   </a>
 </p>
@@ -350,7 +350,7 @@ Bonyeza kitufe cha **Fork** juu kulia ili kutengeneza copy ya hii repo iwe yako.
 ### <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" height="20"> Option B: Render
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/PATA%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pata Session ID" height="40">
   </a>
   &nbsp;&nbsp;
@@ -371,7 +371,7 @@ Bonyeza kitufe cha **Fork** juu kulia ili kutengeneza copy ya hii repo iwe yako.
 ### <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="20"> Option C: Railway
 
 <p align="center">
-  <a href="https://tervux-whatsapp-bot-production-29a9.up.railway.app/pair">
+  <a href="https://tervux-mini-bot-production-29a9.up.railway.app/pair">
     <img src="https://img.shields.io/badge/PATA%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pata Session ID" height="40">
   </a>
   &nbsp;&nbsp;
@@ -392,8 +392,8 @@ Bonyeza kitufe cha **Fork** juu kulia ili kutengeneza copy ya hii repo iwe yako.
 ### <img src="https://img.shields.io/badge/-Termux-FF4500?style=flat-square&logo=gnubash&logoColor=white" height="20"> Termux / PC
 
 ```bash
-git clone https://github.com/JonniTech/Tervux-WhatsApp-Bot.git
-cd Tervux-WhatsApp-Bot
+git clone https://github.com/JonniTech/Tervux-Mini-Bot.git
+cd Tervux-Mini-Bot
 npm install
 npm start
 ```
@@ -454,14 +454,14 @@ Njia ya kisasa ya kuweka Tervux Bot ni kutumia **Session ID**. Hii inakuepusha n
 
 <!-- Stats Row -->
 <p>
-  <img src="https://img.shields.io/github/repo-size/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=github&color=181717&labelColor=1a1a1b" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/last-commit/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=github&color=25D366&labelColor=1a1a1b" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/languages/top/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=javascript&color=F7DF1E&labelColor=1a1a1b" alt="Top Language"/>
+  <img src="https://img.shields.io/github/repo-size/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=github&color=181717&labelColor=1a1a1b" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=github&color=25D366&labelColor=1a1a1b" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/languages/top/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=javascript&color=F7DF1E&labelColor=1a1a1b" alt="Top Language"/>
 </p>
 
 <!-- License & Views -->
 <p>
-  <img src="https://img.shields.io/github/license/JonniTech/Tervux-WhatsApp-Bot?style=for-the-badge&logo=opensourceinitiative&color=3399FF&labelColor=1a1a1b" alt="License"/>
+  <img src="https://img.shields.io/github/license/JonniTech/Tervux-Mini-Bot?style=for-the-badge&logo=opensourceinitiative&color=3399FF&labelColor=1a1a1b" alt="License"/>
   <img src="https://komarev.com/ghpvc/?username=JonniTech&label=REPO+VIEWS&style=for-the-badge&color=A020F0" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/NODE-20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Version"/>
 </p>
@@ -479,15 +479,15 @@ Njia ya kisasa ya kuweka Tervux Bot ni kutumia **Session ID**. Hii inakuepusha n
 <br><br>
 
 <!-- Social Links -->
-<a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot">
+<a href="https://github.com/JonniTech/Tervux-Mini-Bot">
   <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" height="35">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot/fork">
+<a href="https://github.com/JonniTech/Tervux-Mini-Bot/fork">
   <img src="https://img.shields.io/badge/FORK%20NOW-00BFFF?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/JonniTech/Tervux-WhatsApp-Bot/issues">
+<a href="https://github.com/JonniTech/Tervux-Mini-Bot/issues">
   <img src="https://img.shields.io/badge/REPORT%20ISSUE-FF4500?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>
 

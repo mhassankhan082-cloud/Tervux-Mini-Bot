@@ -445,13 +445,13 @@ If you really want to leave, type:
 
         await sock.sendMessage(remoteJid, {
             text: `╔══════════════════════════════════╗
-║  👋 *𝔾𝕆𝕆𝔻𝔹𝕐𝔼* 👋  ║
-╚══════════════════════════════════╝
+    ║  👋 *𝔾𝕆𝕆𝔻𝔹𝕐𝔼* 👋  ║
+    ╚══════════════════════════════════╝
 
-Tervux Bot is leaving this group.
-Thanks for having me! 
+    Tervux-Mini-Bot is leaving this group.
+    Thanks for having me! 
 
-🔗 github.com/JonniTech/Tervux-WhatsApp-Bot`
+    🔗 github.com/JonniTech/Tervux-Mini-Bot`
         });
 
         await sock.groupLeave(remoteJid);

@@ -466,8 +466,8 @@ ${githubSection}
 ${text}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝔼ℝ𝕍𝕌𝕏 𝔹𝕠𝕥* 💠
-🔗 github.com/JonniTech/Tervux-WhatsApp-Bot`;
+    💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝕖𝕣𝕧𝕌𝕏 𝕄𝕚𝕟𝕚-𝔹𝕠𝕥* 💠
+🔗 github.com/JonniTech/Tervux-Mini-Bot`;
 
             await sock.sendMessage(originalMsg.key.remoteJid, {
                 text: output,
@@ -598,14 +598,14 @@ ${text}
 ║  🚫 *𝔸ℂℂ𝔼𝕊𝕊 𝔻𝔼ℕ𝕀𝔼𝔻* 🚫  ║
 ╚══════════════════════════════════╝
 
-⚠️ *𝕆𝕠𝕡𝕤!* This is a private Tervux Bot instance.
+⚠️ *𝕆𝕠𝕡𝕤!* This is a private Tervux-Mini-Bot instance.
 Only the owner can execute commands here.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ *𝔾𝔼𝕋 𝕐𝕆𝕌ℝ 𝕆𝕎ℕ 𝔹𝕆𝕋 (𝔽ℝ𝔼𝔼!)*
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Deploy your own Tervux Bot in minutes!
+Deploy your own Tervux-Mini-Bot in minutes!
 
 📋 *𝕊𝕚𝕞𝕡𝕝𝕖 𝕊𝕥𝕖𝕡𝕤:*
 • *Step 1:* Go to GitHub and Fork the repo
@@ -616,11 +616,11 @@ Deploy your own Tervux Bot in minutes!
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔗 *ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪:*
-github.com/JonniTech/Tervux-WhatsApp-Bot
+github.com/JonniTech/Tervux-Mini-Bot
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ╔══════════════════════════════════╗
-║    💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝔼ℝ𝕍𝕌𝕏* 💠    ║
+║    💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝕖𝕣𝕧𝕌𝕏* 💠    ║
 ╚══════════════════════════════════╝`;
 
                 await sock.sendMessage(m.key.remoteJid, {
@@ -639,7 +639,7 @@ github.com/JonniTech/Tervux-WhatsApp-Bot
                     const result = await commands[commandName](sock, m, args);
 
                     if (result) {
-                        const footer = `\n\n━━━━━━━━━━━━━━━━━━━━\n💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝔼ℝ𝕍𝕌𝕏 𝔹𝕠𝕥*\n🔗 github.com/JonniTech/Tervux-WhatsApp-Bot`;
+                        const footer = `\n\n━━━━━━━━━━━━━━━━━━━━\n💠 *ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕋𝕖𝕣𝕧𝕌𝕏 𝕄𝕚𝕟𝕚-𝔹𝕠𝕥*\n🔗 github.com/JonniTech/Tervux-Mini-Bot`;
 
                         if (typeof result === "string") {
                             await sock.sendMessage(m.key.remoteJid, { text: result + footer });

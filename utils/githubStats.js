@@ -12,7 +12,7 @@ export const getRepoStats = async () => {
     }
 
     try {
-        const repoUrl = "https://api.github.com/repos/JonniTech/Tervux-WhatsApp-Bot";
+        const repoUrl = "https://api.github.com/repos/JonniTech/Tervux-Mini-Bot";
 
         // Parallel requests for repo details and pull requests
         const [repoRes, pullsRes] = await Promise.all([

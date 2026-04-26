@@ -10,13 +10,12 @@ import { join } from "path";
 // Serve static files (HTML, CSS, JS) from public directory
 app.use(express.static("public"));
 
-
 app.use(cors());
 app.use(express.json());
 
 // Health check
 app.get("/", (req, res) => {
-    res.json({ status: "OK", service: "Tervux WhatsApp Bot" });
+    res.json({ status: "OK", service: "Tervux-Mini-Bot" });
 });
 
 // Bot status
