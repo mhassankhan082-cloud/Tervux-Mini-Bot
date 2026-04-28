@@ -97,7 +97,16 @@ export const startPairing = async (phoneNumber, method = "qr", socketId) => {
                 })();
             }
 
-            sock.ev.on("creds.update", saveCreds);
+            const safeSaveCreds = async () => {
+                try {
+                    if (!existsSync(sessionDir)) mkdirSync(sessionDir, { recursive: true });
+                    await saveCreds();
+                } catch (e) {
+                    console.warn(`[${sessionId}] saveCreds failed: ${e.message}`);
+                }
+            };
+
+            sock.ev.on("creds.update", safeSaveCreds);
 
             sock.ev.on("connection.update", async (update) => {
                 const { connection, lastDisconnect, qr } = update;
