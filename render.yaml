@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tervux-mini-bot
+    name: Ayesha-mini-bot
     plan: free
     buildCommand: npm install
     startCommand: npm start
