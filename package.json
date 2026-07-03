@@ -1,7 +1,7 @@
 {
-  "name": "tervux-mini-bot",
+  "name": "Ayesha-mini-bot",
   "version": "2.0.0",
-  "description": "Self-hosted WhatsApp Bot powered by Tervux",
+  "description": "Self-hosted WhatsApp Bot powered by Ayesha",
   "main": "server.js",
   "type": "module",
   "scripts": {
